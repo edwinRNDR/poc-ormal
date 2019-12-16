@@ -1,0 +1,10 @@
+include(
+    "ormal-core",
+    "ormal-natives-linux-x64",
+    "ormal-natives-windows",
+    "ormal-natives-macos",
+    "ormal-object-detector-yolo-voc",
+    "ormal-object-detector-yolo-coco",
+    "ormal-object-segmenter-maskrcnn-coco",
+    "ormal-semantic-segmenter-psp-coco"
+)
